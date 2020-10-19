@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- COULEUR DE BASE
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorInfoBG">#BDE5F8</color>
+    <color name="colorInfo">#00529B</color>
+    <color name="colorWarningBG">#FEEFB3</color>
+    <color name="colorWarning">#9F6000</color>
+    <color name="colorErrorBG">#FFD2D2</color>
+    <color name="colorError">#D8000C</color>
+    <color name="colorSuccessBG">#DFF2BF</color>
+    <color name="colorSuccess">#4F8A10</color>
+</resources>
