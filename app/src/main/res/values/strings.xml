@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">Ynov Application</string>
+    <string name="app_name">Ynov app</string>
     <string name="hello">Hello Kotlin !</string>
-    <string name="desc">Voici une application de test utilisant Kotlin.</string>
+    <string name="desc">See, this app use kotlin</string>
     <string name="text_onStart">Hello world</string>
     <string name="test_longtext">Hello world</string>
+
+    <string name="user" translatable="false">Billy</string>
 </resources>

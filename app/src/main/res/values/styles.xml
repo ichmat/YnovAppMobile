@@ -6,6 +6,31 @@
         <item name="colorPrimaryDark">@color/colorInfo</item>
         <item name="colorAccent">@color/colorInfoBG</item>
     </style>
+
+    <style name="RedText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/colorError</item>
+        <item name="android:background">@color/colorErrorBG</item>
+    </style>
+
+    <style name="defaultButton" parent="Widget.AppCompat.Button" >
+        <item name="android:background">@drawable/button_design_default</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="defaultBigButton" parent="Widget.AppCompat.Button" >
+        <item name="android:background">@drawable/button_design_default</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:width">160dp</item>
+    </style>
+
+    <style name="warningButton" parent="Widget.AppCompat.Button" >
+        <item name="android:background">@color/colorWarningBG</item>
+        <item name="android:textColor">@color/colorWarning</item>
+        <item name="android:gravity">center</item>
+        <item name="android:width">3in</item>
+    </style>
 <!--
     <style name="MyTheme" parent="@android:style/Theme.Holo.Light">
         <item name="android:actionBarStyle">@style/MyActionBar</item>

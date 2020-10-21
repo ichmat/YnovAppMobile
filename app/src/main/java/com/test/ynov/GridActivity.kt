@@ -9,6 +9,6 @@ import androidx.appcompat.app.ActionBar
 class GridActivity : AppCompatActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.scrollview)
+        setContentView(R.layout.activity_grid)
     }
 }
